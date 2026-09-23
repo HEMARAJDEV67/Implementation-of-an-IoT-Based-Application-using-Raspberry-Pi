@@ -348,7 +348,7 @@ while True:
 ```
 
 # Observation
-<img width="1600" height="803" alt="image" src="https://github.com/user-attachments/assets/5c2619a9-f517-43a5-8359-6989a5fdebfe" />
+<img width="1600" alt="DHT11 Sensor Simulation" src="./ca4925b9-03b8-460c-a600-773723907d9e.png" />
 
 
 
