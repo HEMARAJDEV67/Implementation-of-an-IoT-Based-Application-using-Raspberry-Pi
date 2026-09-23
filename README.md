@@ -348,8 +348,7 @@ while True:
 ```
 
 # Observation
-<img width="676" height="782" alt="image" src="https://github.com/user-attachments/assets/002d71fc-95cf-497a-9a30-2b6dc54a8204" />
-
+<img width="1600" height="803" alt="image" src="https://github.com/user-attachments/assets/5c2619a9-f517-43a5-8359-6989a5fdebfe" />
 
 
 
